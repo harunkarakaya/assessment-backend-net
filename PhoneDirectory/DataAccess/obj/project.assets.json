@@ -320,6 +320,19 @@
         "runtime": {
           "lib/netcoreapp3.1/ZstdSharp.dll": {}
         }
+      },
+      "PersonInfo.API.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MongoDB.Bson": "2.18.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonInfo.API.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonInfo.API.Entities.dll": {}
+        }
       }
     }
   },
@@ -830,12 +843,18 @@
         "zstdsharp.port.0.6.2.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "PersonInfo.API.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Services/PersonInfo.API.Entities/PersonInfo.API.Entities.csproj",
+      "msbuildProject": "../Services/PersonInfo.API.Entities/PersonInfo.API.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.Extensions.Options >= 7.0.0",
-      "MongoDB.Driver >= 2.18.0"
+      "MongoDB.Driver >= 2.18.0",
+      "PersonInfo.API.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -871,7 +890,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\Services\\PersonInfo.API.Entities\\PersonInfo.API.Entities.csproj": {
+              "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\Services\\PersonInfo.API.Entities\\PersonInfo.API.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
