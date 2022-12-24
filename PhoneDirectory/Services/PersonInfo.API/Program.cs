@@ -20,6 +20,7 @@ namespace PersonInfo.API
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    webBuilder.UseUrls("http://*:9000");
                     webBuilder.UseStartup<Startup>();
                 });
     }
