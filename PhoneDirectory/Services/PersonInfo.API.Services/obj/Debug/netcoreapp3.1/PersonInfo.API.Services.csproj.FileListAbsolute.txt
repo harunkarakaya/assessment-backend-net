@@ -13,3 +13,5 @@ D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.AP
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.csproj.CopyComplete
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.dll
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\DataAccess.pdb

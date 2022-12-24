@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using PersonInfo.API.Entities;
 using PersonInfo.API.Infrastructure;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace PersonInfo.API.Controllers
@@ -17,9 +18,13 @@ namespace PersonInfo.API.Controllers
         }
 
         [HttpGet("{Id}")]
-        public Person GetPerson(int Id)
+        public IEnumerable<Person> GetPerson(string Id)
         {
-            return _personInfoService.GetPersonByID(Id);
+            var data = _personInfoService.GetAllPerson();
+
+            return data;
         }
+
+
     }
 }

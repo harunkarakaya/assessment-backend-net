@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5Ath6b1jXPQldVudzkvRNZixF1A2yjYZ38frnE6xlNahgHjt+r5uOgsMq+Vpz2e2Gm5/bev9fxEr++nELhIKUQ==",
+  "dgSpecHash": "J4eByoc6V9Abilgcl0XZ7wmc4WxklcxPEwzwZQPkiyJs59cUOFgHKsBvyKqP3lZOCN6V1coWGsCwnT/EBQEE2Q==",
   "success": true,
   "projectFilePath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\Services\\PersonInfo.API.Infrastructure\\PersonInfo.API.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\harun\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\harun\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

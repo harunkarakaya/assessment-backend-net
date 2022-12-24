@@ -1,3 +1,6 @@
+using DataAccess.Abstract;
+using DataAccess.ConcreteRepo;
+using DataAccess.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -30,6 +33,13 @@ namespace PersonInfo.API
             services.AddControllers();
 
             services.AddScoped<IPersonInfoService, PersonInfoService>();
+            services.AddScoped<IPersonRepository, PersonelRepository>();
+
+            services.Configure<MongoSettings>(option =>
+            {
+                option.ConnectionString = Configuration.GetSection("MongoConnection:ConnectionString").Value;
+                option.Database = Configuration.GetSection("MongoConnection:Database").Value;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

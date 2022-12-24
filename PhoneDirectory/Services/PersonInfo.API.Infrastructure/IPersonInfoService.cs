@@ -7,6 +7,6 @@ namespace PersonInfo.API.Infrastructure
 {
     public interface IPersonInfoService
     {
-        public Person GetPersonByID(int id);
+        IEnumerable<Person> GetAllPerson();
     }
 }

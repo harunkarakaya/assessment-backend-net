@@ -6,11 +6,9 @@ namespace PersonInfo.API.Entities
 {
     public class ContactInfo
     {
-        public int CIID { get; set; }
         public string PhoneNumber { get; set; }
         public string EmailAddress { get; set; }
         public string Location { get; set; }
         public string InformationContent { get; set; }
-        public Person person { get; set; }
     }
 }

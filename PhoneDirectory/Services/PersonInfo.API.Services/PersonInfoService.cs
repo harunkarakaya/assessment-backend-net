@@ -1,4 +1,9 @@
-﻿using PersonInfo.API.Entities;
+﻿using DataAccess.Abstract;
+using DataAccess.ConcreteRepo;
+using DataAccess.Context;
+using MongoDB.Bson;
+using MongoDB.Driver;
+using PersonInfo.API.Entities;
 using PersonInfo.API.Infrastructure;
 using System;
 using System.Collections.Generic;
@@ -8,15 +13,19 @@ namespace PersonInfo.API.Services
 {
     public class PersonInfoService : IPersonInfoService
     {
-        public Person GetPersonByID(int id)
+        private readonly IPersonRepository _personRepository;
+
+        public PersonInfoService(IPersonRepository personRepository)
         {
-            return new Person()
-            {
-                UUID = id,
-                Name = "Harun",
-                Surname = "Karakaya",
-                Company = "Sgs"   
-            };
+            _personRepository = personRepository;
         }
+
+        public IEnumerable<Person> GetAllPerson()
+        {
+            var personList = _personRepository.GetAll();
+
+            return personList;
+        }
+
     }
 }
