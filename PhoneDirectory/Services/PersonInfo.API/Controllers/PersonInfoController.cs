@@ -22,7 +22,7 @@ namespace PersonInfo.API.Controllers
         //[HttpGet("{Id}")]
         [Route("GetAllPersonel")]
         [HttpGet]
-        public IEnumerable<Person> GetPerson(string Id)
+        public IEnumerable<Person> GetPerson()
         {
             var data = _personInfoService.GetAllPerson();
 

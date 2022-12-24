@@ -2,7 +2,7 @@
     "Routes": [
 
       {
-        "DownstreamPathTemplate": "/api/PersonInfo/{id}", //yönlendirilen adres
+        "DownstreamPathTemplate": "/api/PersonInfo/GetAllPersonel", //yönlendirilen adres
         "DownstreamScheme": "http",
         "DownstreamHostAndPorts": [
           {
@@ -10,7 +10,19 @@
             "Port": 9000
           }
         ],
-        "UpstreamPathTemplate": "/person/{id}", //dışarıdan bize gelen
+        "UpstreamPathTemplate": "/person/GetAll", //dışarıdan bize gelen
+        "UpstreamHttpMethod": [ "Get" ]
+      },
+      {
+        "DownstreamPathTemplate": "/api/PersonInfo/PersonelCreate", //yönlendirilen adres
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 9000
+          }
+        ],
+        "UpstreamPathTemplate": "/person/Create", //dışarıdan bize gelen
         "UpstreamHttpMethod": [ "Get" ]
       }
     ]
