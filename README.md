@@ -13,3 +13,10 @@ https://localhost:44321/api/PersonInfo/GetAllPersonel => Kişileri hepsini getir
 https://localhost:44321/api/PersonInfo/PersonelCreate => Kişi oluşturur. Datalar serviste otomatik olarak create ediliyor.
 
 https://localhost:44321/api/PersonInfo/PersonelDelete/63a72d272f5eabcd0926c6ff => İlgili id'li kişiyi delete eder.
+
+
+APIGATEWAY ile erişmek için
+
+https://localhost:44328/person/GetAll => Kişileri hepsini getirir.
+
+https://localhost:44328/person/Create => Kişi oluşturur.
