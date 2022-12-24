@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersonInfo.API.Entities\PersonInfo.API.Entities.csproj" />
+    <ProjectReference Include="..\PersonInfo.API.Infrastructure\PersonInfo.API.Infrastructure.csproj" />
+    <ProjectReference Include="..\PersonInfo.API.Services\PersonInfo.API.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>

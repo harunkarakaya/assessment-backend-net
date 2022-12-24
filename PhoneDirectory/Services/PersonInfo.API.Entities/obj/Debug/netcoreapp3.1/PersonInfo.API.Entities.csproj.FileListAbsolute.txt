@@ -1,0 +1,10 @@
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.deps.json
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\obj\Debug\netcoreapp3.1\PersonInfo.API.Entities.csproj.AssemblyReference.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\obj\Debug\netcoreapp3.1\PersonInfo.API.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\obj\Debug\netcoreapp3.1\PersonInfo.API.Entities.AssemblyInfoInputs.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\obj\Debug\netcoreapp3.1\PersonInfo.API.Entities.AssemblyInfo.cs
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\obj\Debug\netcoreapp3.1\PersonInfo.API.Entities.csproj.CoreCompileInputs.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\obj\Debug\netcoreapp3.1\PersonInfo.API.Entities.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Entities\obj\Debug\netcoreapp3.1\PersonInfo.API.Entities.pdb

@@ -1,0 +1,13 @@
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\bin\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.deps.json
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\bin\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\bin\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\obj\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.csproj.AssemblyReference.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\obj\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\obj\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.AssemblyInfoInputs.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\obj\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.AssemblyInfo.cs
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\obj\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\obj\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.csproj.CopyComplete
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\obj\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Infrastructure\obj\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.pdb
