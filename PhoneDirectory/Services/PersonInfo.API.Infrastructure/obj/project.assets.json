@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "PersonInfo.API.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PersonInfo.API.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonInfo.API.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PersonInfo.API.Entities/1.0.0": {
+      "type": "project",
+      "path": "../PersonInfo.API.Entities/PersonInfo.API.Entities.csproj",
+      "msbuildProject": "../PersonInfo.API.Entities/PersonInfo.API.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "PersonInfo.API.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\harun\\.nuget\\packages\\": {},
@@ -40,7 +59,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\Services\\PersonInfo.API.Entities\\PersonInfo.API.Entities.csproj": {
+              "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\Services\\PersonInfo.API.Entities\\PersonInfo.API.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

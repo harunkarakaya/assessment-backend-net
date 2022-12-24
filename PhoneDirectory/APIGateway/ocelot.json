@@ -1,0 +1,18 @@
+ {
+    "Routes": [
+
+      {
+        "DownstreamPathTemplate": "/api/PersonInfo/{id}", //yönlendirilen adres
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 9000
+          }
+        ],
+        "UpstreamPathTemplate": "/person/{id}", //dışarıdan bize gelen
+        "UpstreamHttpMethod": [ "Get" ]
+      }
+    ]
+  }
+

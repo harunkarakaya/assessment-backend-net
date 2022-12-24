@@ -31,6 +31,9 @@
     ".NETCoreApp,Version=v3.1": {
       "PersonInfo.API/1.0.0": {
         "dependencies": {
+          "PersonInfo.API.Entities": "1.0.0",
+          "PersonInfo.API.Infrastructure": "1.0.0",
+          "PersonInfo.API.Services": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -319,6 +322,36 @@
         },
         "compile": {
           "PersonInfo.API.dll": {}
+        }
+      },
+      "PersonInfo.API.Entities/1.0.0": {
+        "runtime": {
+          "PersonInfo.API.Entities.dll": {}
+        },
+        "compile": {
+          "PersonInfo.API.Entities.dll": {}
+        }
+      },
+      "PersonInfo.API.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PersonInfo.API.Entities": "1.0.0"
+        },
+        "runtime": {
+          "PersonInfo.API.Infrastructure.dll": {}
+        },
+        "compile": {
+          "PersonInfo.API.Infrastructure.dll": {}
+        }
+      },
+      "PersonInfo.API.Services/1.0.0": {
+        "dependencies": {
+          "PersonInfo.API.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "PersonInfo.API.Services.dll": {}
+        },
+        "compile": {
+          "PersonInfo.API.Services.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2017,6 +2050,21 @@
   },
   "libraries": {
     "PersonInfo.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonInfo.API.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonInfo.API.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonInfo.API.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

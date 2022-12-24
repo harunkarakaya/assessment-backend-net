@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PersonInfo.API.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PersonInfo.API.Entities": "1.0.0"
+        },
+        "runtime": {
+          "PersonInfo.API.Infrastructure.dll": {}
+        }
+      },
+      "PersonInfo.API.Entities/1.0.0": {
+        "runtime": {
+          "PersonInfo.API.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonInfo.API.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonInfo.API.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

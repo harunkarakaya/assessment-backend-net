@@ -17,3 +17,10 @@ D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.AP
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\obj\Debug\netcoreapp3.1\PersonInfo.API.dll
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\obj\Debug\netcoreapp3.1\PersonInfo.API.pdb
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\obj\Debug\netcoreapp3.1\PersonInfo.API.genruntimeconfig.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\PersonInfo.API.Services.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\PersonInfo.API.Services.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\obj\Debug\netcoreapp3.1\PersonInfo.API.csproj.CopyComplete

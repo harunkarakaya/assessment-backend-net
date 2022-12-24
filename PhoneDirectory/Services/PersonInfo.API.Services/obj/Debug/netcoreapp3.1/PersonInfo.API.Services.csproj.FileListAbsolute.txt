@@ -1,0 +1,15 @@
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\PersonInfo.API.Services.deps.json
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\PersonInfo.API.Services.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\PersonInfo.API.Services.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\PersonInfo.API.Infrastructure.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.csproj.AssemblyReference.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.AssemblyInfoInputs.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.AssemblyInfo.cs
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.csproj.CoreCompileInputs.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.csproj.CopyComplete
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API.Services\obj\Debug\netcoreapp3.1\PersonInfo.API.Services.pdb
