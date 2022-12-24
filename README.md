@@ -8,6 +8,8 @@ APIGATEWAY UI katmanında PersonInfo.API ve Report.API ye yönlendirme route ama
 
 PersonInfo.API'de 3 metot yer alıyor. Kolaylık olması için hepsini HttpGet olarak tasarladım.
 
-https://localhost:44321/api/PersonInfo/GetAllPersonel => Kişileri hepsini getirir. /n
+https://localhost:44321/api/PersonInfo/GetAllPersonel => Kişileri hepsini getirir.
+
 https://localhost:44321/api/PersonInfo/PersonelCreate => Kişi oluşturur. Datalar serviste otomatik olarak create ediliyor.
+
 https://localhost:44321/api/PersonInfo/PersonelDelete/63a72d272f5eabcd0926c6ff => İlgili id'li kişiyi delete eder.
