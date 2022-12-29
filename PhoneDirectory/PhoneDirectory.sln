@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{E1225C1B-3329-456C-9467-BD4FB27DEF2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo.API.DataAccess", "DataAccess\PersonInfo.API.DataAccess.csproj", "{E1225C1B-3329-456C-9467-BD4FB27DEF2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateway", "APIGateway\APIGateway.csproj", "{29388DD6-64A4-401C-8E0A-CD893BE8CF21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIGateway", "APIGateway\APIGateway.csproj", "{29388DD6-64A4-401C-8E0A-CD893BE8CF21}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CA1F16B2-B36C-4A36-B519-FC5F1A62A182}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo.API", "Services\PersonInfo.API\PersonInfo.API.csproj", "{55441C87-26D8-480B-AB5F-6F3AE164AC53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo.API", "Services\PersonInfo.API\PersonInfo.API.csproj", "{55441C87-26D8-480B-AB5F-6F3AE164AC53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Report.API", "Services\Report.API\Report.API.csproj", "{E79D64E7-C621-45BB-8AF6-05CFB161C73D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Report.API", "Services\Report.API\Report.API.csproj", "{E79D64E7-C621-45BB-8AF6-05CFB161C73D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PersonInfoAPI", "PersonInfoAPI", "{D2DB8A5D-65C7-403D-AAF4-83C2CEED593D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReportAPI", "ReportAPI", "{84A6C83C-FB37-46EE-9316-12B6B3C222C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo.API.Infrastructure", "Services\PersonInfo.API.Infrastructure\PersonInfo.API.Infrastructure.csproj", "{F3D9EFCB-15A7-418E-A22E-B0D9830FD1A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo.API.Infrastructure", "Services\PersonInfo.API.Infrastructure\PersonInfo.API.Infrastructure.csproj", "{F3D9EFCB-15A7-418E-A22E-B0D9830FD1A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo.API.Entities", "Services\PersonInfo.API.Entities\PersonInfo.API.Entities.csproj", "{8F6BBEFA-D756-410F-AF51-10D1C2FA2169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo.API.Entities", "Services\PersonInfo.API.Entities\PersonInfo.API.Entities.csproj", "{8F6BBEFA-D756-410F-AF51-10D1C2FA2169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo.API.Services", "Services\PersonInfo.API.Services\PersonInfo.API.Services.csproj", "{F6EC1730-8956-4A4B-8A02-5E9EC61054E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo.API.Services", "Services\PersonInfo.API.Services\PersonInfo.API.Services.csproj", "{F6EC1730-8956-4A4B-8A02-5E9EC61054E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +62,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{E1225C1B-3329-456C-9467-BD4FB27DEF2D} = {D2DB8A5D-65C7-403D-AAF4-83C2CEED593D}
 		{55441C87-26D8-480B-AB5F-6F3AE164AC53} = {D2DB8A5D-65C7-403D-AAF4-83C2CEED593D}
 		{E79D64E7-C621-45BB-8AF6-05CFB161C73D} = {84A6C83C-FB37-46EE-9316-12B6B3C222C7}
 		{D2DB8A5D-65C7-403D-AAF4-83C2CEED593D} = {CA1F16B2-B36C-4A36-B519-FC5F1A62A182}

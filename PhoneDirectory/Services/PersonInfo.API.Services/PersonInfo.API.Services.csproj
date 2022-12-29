@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\DataAccess\DataAccess.csproj" />
+    <ProjectReference Include="..\..\DataAccess\PersonInfo.API.DataAccess.csproj" />
     <ProjectReference Include="..\PersonInfo.API.Infrastructure\PersonInfo.API.Infrastructure.csproj" />
   </ItemGroup>
 

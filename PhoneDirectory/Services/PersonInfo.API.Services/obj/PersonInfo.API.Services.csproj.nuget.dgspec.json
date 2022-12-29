@@ -4,12 +4,12 @@
     "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\Services\\PersonInfo.API.Services\\PersonInfo.API.Services.csproj": {}
   },
   "projects": {
-    "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\DataAccess.csproj": {
+    "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj",
+        "projectName": "PersonInfo.API.DataAccess",
+        "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj",
         "packagesPath": "C:\\Users\\harun\\.nuget\\packages\\",
         "outputPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
@@ -237,8 +237,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\DataAccess.csproj"
+              "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj": {
+                "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj"
               },
               "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\Services\\PersonInfo.API.Infrastructure\\PersonInfo.API.Infrastructure.csproj": {
                 "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\Services\\PersonInfo.API.Infrastructure\\PersonInfo.API.Infrastructure.csproj"

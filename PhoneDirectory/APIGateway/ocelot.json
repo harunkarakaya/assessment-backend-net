@@ -10,9 +10,9 @@
             "Port": 9000
           }
         ],
-        "UpstreamPathTemplate": "/person/GetAll", //dışarıdan bize gelen
+        "UpstreamPathTemplate": "/person/GetAll", //dışarıdan bize gelen , aldığımız
         "UpstreamHttpMethod": [ "Get" ]
-      },
+      },  
       {
         "DownstreamPathTemplate": "/api/PersonInfo/PersonelCreate", //yönlendirilen adres
         "DownstreamScheme": "http",
@@ -22,7 +22,7 @@
             "Port": 9000
           }
         ],
-        "UpstreamPathTemplate": "/person/Create", //dışarıdan bize gelen
+        "UpstreamPathTemplate": "/person/Create", //dışarıdan bize gelen , aldığımız
         "UpstreamHttpMethod": [ "Get" ]
       }
     ]

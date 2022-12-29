@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataAccess.Context
+namespace PersonInfo.API.DataAccess.Context
 {
     public class MongoDbContext
     {
