@@ -865,9 +865,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\DataAccess.csproj",
-      "projectName": "DataAccess",
-      "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj",
+      "projectName": "PersonInfo.API.DataAccess",
+      "projectPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj",
       "packagesPath": "C:\\Users\\harun\\.nuget\\packages\\",
       "outputPath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",

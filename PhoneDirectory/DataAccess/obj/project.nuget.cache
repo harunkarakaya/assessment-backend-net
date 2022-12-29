@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "88AzE1LeRusDnwlQoiVq2KsVfXEHTVJA+LU06V8+8Pl0Ot8UTePbmzSyFzVxBL8zZF2HKgwynFkYAt/4EQIntg==",
+  "dgSpecHash": "M5/Hr9I+6qFt1oea5mDV1S2xZiE9M5ri7KpERAlaqEtDEYJG6JNbac71B/I9gWx10QCjhyvZILGyI0Pn6ITQxw==",
   "success": true,
-  "projectFilePath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harun\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\harun\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",

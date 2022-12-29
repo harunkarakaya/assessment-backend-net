@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+namespace PersonInfo.API.DataAccess.Abstract
 {
     public interface IRepository<TEntity> where TEntity : class, new()
     {

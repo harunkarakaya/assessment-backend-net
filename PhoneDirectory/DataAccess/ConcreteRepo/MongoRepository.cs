@@ -1,5 +1,5 @@
-﻿using DataAccess.Abstract;
-using DataAccess.Context;
+﻿using PersonInfo.API.DataAccess.Abstract;
+using PersonInfo.API.DataAccess.Context;
 using Microsoft.Extensions.Options;
 using MongoDB.Bson;
 using MongoDB.Driver;
@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.ConcreteRepo
+namespace PersonInfo.API.DataAccess.ConcreteRepo
 {
     public class MongoRepository<TEntity> : IRepository<TEntity> where TEntity : class, new() 
     {

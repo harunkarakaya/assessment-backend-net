@@ -321,7 +321,7 @@
           "lib/netcoreapp3.1/ZstdSharp.dll": {}
         }
       },
-      "DataAccess/1.0.0": {
+      "PersonInfo.API.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -330,10 +330,10 @@
           "PersonInfo.API.Entities": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/DataAccess.dll": {}
+          "bin/placeholder/PersonInfo.API.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DataAccess.dll": {}
+          "bin/placeholder/PersonInfo.API.DataAccess.dll": {}
         }
       },
       "PersonInfo.API.Entities/1.0.0": {
@@ -366,7 +366,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "DataAccess": "1.0.0",
+          "PersonInfo.API.DataAccess": "1.0.0",
           "PersonInfo.API.Infrastructure": "1.0.0"
         },
         "compile": {
@@ -886,10 +886,10 @@
         "zstdsharp.port.nuspec"
       ]
     },
-    "DataAccess/1.0.0": {
+    "PersonInfo.API.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../../DataAccess/DataAccess.csproj",
-      "msbuildProject": "../../DataAccess/DataAccess.csproj"
+      "path": "../../DataAccess/PersonInfo.API.DataAccess.csproj",
+      "msbuildProject": "../../DataAccess/PersonInfo.API.DataAccess.csproj"
     },
     "PersonInfo.API.Entities/1.0.0": {
       "type": "project",
