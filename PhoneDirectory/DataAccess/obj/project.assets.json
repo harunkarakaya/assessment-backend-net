@@ -321,19 +321,17 @@
           "lib/netcoreapp3.1/ZstdSharp.dll": {}
         }
       },
-      "PersonInfo.API.Services/1.0.0": {
+      "PersonInfo.API.Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "MongoDB.Bson": "2.18.0",
-          "PersonInfo.API.DataAccess": "1.0.0",
-          "PersonInfo.API.Services": "1.0.0"
+          "MongoDB.Bson": "2.18.0"
         },
         "compile": {
-          "bin/placeholder/PersonInfo.API.Services.dll": {}
+          "bin/placeholder/PersonInfo.API.Entities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/PersonInfo.API.Services.dll": {}
+          "bin/placeholder/PersonInfo.API.Entities.dll": {}
         }
       }
     }
@@ -846,7 +844,7 @@
         "zstdsharp.port.nuspec"
       ]
     },
-    "PersonInfo.API.Services/1.0.0": {
+    "PersonInfo.API.Entities/1.0.0": {
       "type": "project",
       "path": "../Services/PersonInfo.API.Entities/PersonInfo.API.Entities.csproj",
       "msbuildProject": "../Services/PersonInfo.API.Entities/PersonInfo.API.Entities.csproj"
@@ -856,7 +854,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.Extensions.Options >= 7.0.0",
       "MongoDB.Driver >= 2.18.0",
-      "PersonInfo.API.Services >= 1.0.0"
+      "PersonInfo.API.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -937,16 +935,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \r\n  PersonInfo.API.DataAccess -> PersonInfo.API.Services -> PersonInfo.API.DataAccess.",
-      "libraryId": "PersonInfo.API.DataAccess",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

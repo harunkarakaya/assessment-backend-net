@@ -571,17 +571,17 @@
           "lib/netcoreapp3.1/ZstdSharp.dll": {}
         }
       },
-      "DataAccess/1.0.0": {
+      "PersonInfo.API.DataAccess/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Options": "7.0.0",
           "MongoDB.Driver": "2.18.0",
           "PersonInfo.API.Entities": "1.0.0"
         },
         "runtime": {
-          "DataAccess.dll": {}
+          "PersonInfo.API.DataAccess.dll": {}
         },
         "compile": {
-          "DataAccess.dll": {}
+          "PersonInfo.API.DataAccess.dll": {}
         }
       },
       "PersonInfo.API.Entities/1.0.0": {
@@ -608,7 +608,7 @@
       },
       "PersonInfo.API.Services/1.0.0": {
         "dependencies": {
-          "DataAccess": "1.0.0",
+          "PersonInfo.API.DataAccess": "1.0.0",
           "PersonInfo.API.Infrastructure": "1.0.0"
         },
         "runtime": {
@@ -2409,7 +2409,7 @@
       "path": "zstdsharp.port/0.6.2",
       "hashPath": "zstdsharp.port.0.6.2.nupkg.sha512"
     },
-    "DataAccess/1.0.0": {
+    "PersonInfo.API.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

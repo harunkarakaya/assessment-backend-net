@@ -46,5 +46,5 @@ D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.AP
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\DataAccess.dll
-D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\Services\PersonInfo.API\bin\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.pdb

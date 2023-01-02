@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "wEC0Wnft6alcts7oNXaWayhxpLL5BIrXU0RNDU3Q6f0X/ENd+3LbA/nasqZ7WCfob3my07Ptd0oIEu2A6KjDug==",
-  "success": false,
+  "dgSpecHash": "M5/Hr9I+6qFt1oea5mDV1S2xZiE9M5ri7KpERAlaqEtDEYJG6JNbac71B/I9gWx10QCjhyvZILGyI0Pn6ITQxw==",
+  "success": true,
   "projectFilePath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\DataAccess\\PersonInfo.API.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harun\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
@@ -24,15 +24,5 @@
     "C:\\Users\\harun\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\harun\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \r\n  PersonInfo.API.DataAccess -> PersonInfo.API.Services -> PersonInfo.API.DataAccess.",
-      "libraryId": "PersonInfo.API.DataAccess",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

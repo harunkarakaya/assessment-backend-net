@@ -1,0 +1,13 @@
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\bin\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.deps.json
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\bin\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\bin\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\bin\Debug\netcoreapp3.1\PersonInfo.API.Entities.pdb
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\obj\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.csproj.AssemblyReference.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\obj\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\obj\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.AssemblyInfoInputs.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\obj\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.AssemblyInfo.cs
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\obj\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.csproj.CoreCompileInputs.cache
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\obj\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.csproj.CopyComplete
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\obj\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.dll
+D:\Yazılım\GitHub\assessment-backend-net\PhoneDirectory\DataAccess\obj\Debug\netcoreapp3.1\PersonInfo.API.DataAccess.pdb
