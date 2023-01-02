@@ -1,6 +1,6 @@
-﻿using DataAccess.Abstract;
-using DataAccess.ConcreteRepo;
-using DataAccess.Context;
+﻿using PersonInfo.API.DataAccess.Abstract;
+using PersonInfo.API.DataAccess.ConcreteRepo;
+using PersonInfo.API.DataAccess.Context;
 using MongoDB.Bson;
 using MongoDB.Driver;
 using PersonInfo.API.Entities;
