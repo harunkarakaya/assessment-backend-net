@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xIITekG83B9aKyQphIqYgTKsDa+myN3Zs68OhYkURgnhfIA3l7pshSD8evjBssLLaNir2LpvawuM+fBq0LJ2FA==",
+  "dgSpecHash": "Yn9mRw25YcY+B1k+DCvfCwgs9EMdApJMlaPt5pRO8plP+Lif2go0Flsm4uivdpeI+U2VsCkwwEdVtVi+W4qZwQ==",
   "success": true,
   "projectFilePath": "D:\\Yazılım\\GitHub\\assessment-backend-net\\PhoneDirectory\\PresentationLayer\\PresentationLayer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\harun\\.nuget\\packages\\font.awesome\\5.15.4\\font.awesome.5.15.4.nupkg.sha512"
+  ],
   "logs": []
 }
