@@ -7,6 +7,53 @@
 <head>
     <link href="~/css/bootstrap.css" rel="stylesheet" />
     <script src="~/js/bootstrap.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script>
+
+
+        var contacts = [];
+
+        $(document).ready(function () {
+            
+            //var test={
+            //    name:"Harun",
+            //    surname:"KARAKAYA"
+            //};
+
+            //contacts.push(test);
+            //contacts.push(test);
+            //contacts.push(test);
+            //contacts.push(test);
+            //console.log(contacts);
+        });
+
+        
+        //document.addEventListener("DOMContentLoaded", function () {
+
+        //    alert('Döküman hazır!');
+
+        //});
+
+        //$('#addcontact').on('click', function (event) {
+        //   console.log('test');
+        //});
+
+
+        function Addcontact() {
+
+            let personel = {};
+            personel.phone = document.getElementById('phone').value;
+            personel.email = document.getElementById('email').value;
+            personel.location = document.getElementById('location').value;
+            personel.info = document.getElementById('info').value;
+
+            contacts.push(personel);
+
+        }
+
+
+    </script>
 </head>
 
 <body>
@@ -51,35 +98,35 @@
                             <div class="row" style="margin-bottom:20px;">
                                 <div class="col-md-6 col-sm-6">
                                     <label for="validationTooltip01">Telefon</label>
-                                    <input type="text" class="form-control" id="validationTooltip01" placeholder="Telefon" required>
+                                    <input type="text" class="form-control" id="phone" placeholder="Telefon" required>
                                     <div class="valid-tooltip">
                                         Looks good!
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6">
                                     <label for="validationTooltip02">E-Mail</label>
-                                    <input type="text" class="form-control" id="validationTooltip02" placeholder="E-Mail" required>
+                                    <input type="text" class="form-control" id="email" placeholder="E-Mail" required>
                                     <div class="valid-tooltip">
                                         Looks good!
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6">
                                     <label for="validationTooltip03">Lokasyon</label>
-                                    <input type="text" class="form-control" id="validationTooltip03" placeholder="Lokasyon" required>
+                                    <input type="text" class="form-control" id="location" placeholder="Lokasyon" required>
                                     <div class="valid-tooltip">
                                         Looks good!
                                     </div>
                                 </div>
                                 <div class="col-md-6 col-sm-6">
                                     <label for="validationTooltip04">Bilgi İçeriği</label>
-                                    <input type="text" class="form-control" id="validationTooltip04" placeholder="Bilgi İçeriği" required>
+                                    <input type="text" class="form-control" id="info" placeholder="Bilgi İçeriği" required>
                                     <div class="valid-tooltip">
                                         Looks good!
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <button class="btn btn-outline-success" type="button">İletişim Bilgisini Ekle</button>
+                        <button class="btn btn-outline-success" id="addcontact" onclick="javascript:Addcontact()" type="button">İletişim Bilgisini Ekle</button>
                     </form>
 
                 
