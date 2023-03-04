@@ -48,6 +48,10 @@
             "Font.Awesome": {
               "target": "Package",
               "version": "[5.15.4, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.6.3, )"
             }
           },
           "imports": [
